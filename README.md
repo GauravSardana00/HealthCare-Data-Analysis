@@ -22,23 +22,28 @@ This comprehensive dashboard is designed to provide deep insights into healthcar
 **Drill-Down Capabilities:** Drill down into specific hospital performance metrics for detailed analysis.
 
 # Treatment Effectiveness Visualization:
-Treatment Evaluation: Visualize the effectiveness of different treatments based on length of stay and recovery ratings, aiding in treatment optimization and outcome improvement.
+**Treatment Evaluation:** Visualize the effectiveness of different treatments based on length of stay and recovery ratings, aiding in treatment optimization and outcome improvement.
 
 # Key Insights and Data Storytelling:
-Data Stories: Discover key insights and trends from the data, presented in a storytelling format.
-Significant Findings: Uncover significant findings and trends that emerged during the analysis process, providing actionable insights for healthcare stakeholders.
+**Data Stories:** Discover key insights and trends from the data, presented in a storytelling format.
+
+**Significant Findings:** Uncover significant findings and trends that emerged during the analysis process, providing actionable insights for healthcare stakeholders.
 
 # Data Sources:
-Patient Medical Records: Detailed information on patients, including demographics, diagnoses, treatments, and billing information.
-Hospital Treatment Details: Insights into hospitals treating patients, including treating doctors, room assignments, treatment types, and recovery ratings.
+**Patient Medical Records:** Detailed information on patients, including demographics, diagnoses, treatments, and billing information.
+
+**Hospital Treatment Details:** Insights into hospitals treating patients, including treating doctors, room assignments, treatment types, and recovery ratings.
 
 # Technologies Used:
-Power BI: Leveraged for data visualization, analysis, and dashboard creation.
-DAX (Data Analysis Expressions): Utilized for advanced analytics and calculations within Power BI.
+**Power BI:** Leveraged for data visualization, analysis, and dashboard creation.
+
+**DAX (Data Analysis Expressions):** Utilized for advanced analytics and calculations within Power BI.
 
 # How to Use:
 Clone or download the repository to your local machine.
+
 Open the Power BI file using Power BI Desktop.
+
 Explore the dashboard using various filters and interactive elements to gain valuable insights into healthcare data.
 
 # Disclaimer:
