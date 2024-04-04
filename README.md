@@ -1,9 +1,10 @@
 # HealthCare Analysis Dashboard
-Welcome to the Healthcare Analysis Dashboard! This comprehensive dashboard is designed to provide deep insights into healthcare data, facilitating informed decision-making for healthcare providers and administrators. Below, you'll find a detailed overview of the features and functionalities of this dashboard:
+Welcome to the Healthcare Analysis Dashboard!
+This comprehensive dashboard is designed to provide deep insights into healthcare data, facilitating informed decision-making for healthcare providers and administrators. Below, you'll find a detailed overview of the features and functionalities of this dashboard.
 
 # Overview:
-Key Metrics: Get a snapshot of patient demographics, diagnosis distribution, treatment costs, and recovery ratings.
-Filters: Use filters to narrow down data by hospitals, diagnosis, and treatment types for more targeted analysis.
+**Key Metrics:** Get a snapshot of patient demographics, diagnosis distribution, treatment costs, and recovery ratings.
+**Filters:** Use filters to narrow down data by hospitals, diagnosis, and treatment types for more targeted analysis.
 
 # Design and Usability:
 Intuitive Design: The dashboard is designed with user-friendliness in mind, ensuring easy navigation and understanding of complex data.
