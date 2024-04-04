@@ -7,8 +7,8 @@ This comprehensive dashboard is designed to provide deep insights into healthcar
 **Filters:** Use filters to narrow down data by hospitals, diagnosis, and treatment types for more targeted analysis.
 
 # Design and Usability:
-Intuitive Design: The dashboard is designed with user-friendliness in mind, ensuring easy navigation and understanding of complex data.
-Visual Engagement: Engaging visuals and informative charts make data interpretation effortless.
+**Intuitive Design:** The dashboard is designed with user-friendliness in mind, ensuring easy navigation and understanding of complex data.
+**Visual Engagement:** Engaging visuals and informative charts make data interpretation effortless.
 
 # Time-Based Analysis:
 Trend Analysis: Explore trends in patient admissions and length of stay over time, enabling predictive analysis and resource planning.
