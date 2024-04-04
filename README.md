@@ -14,11 +14,12 @@ This comprehensive dashboard is designed to provide deep insights into healthcar
 **Visual Engagement:** Engaging visuals and informative charts make data interpretation effortless.
 
 # Time-Based Analysis:
-Trend Analysis: Explore trends in patient admissions and length of stay over time, enabling predictive analysis and resource planning.
+**Trend Analysis:** Explore trends in patient admissions and length of stay over time, enabling predictive analysis and resource planning.
 
 # Interactive Hospital Performance Comparison:
-Performance Comparison: Compare hospitals based on patient load, treatment costs, and recovery ratings through interactive visualizations.
-Drill-Down Capabilities: Drill down into specific hospital performance metrics for detailed analysis.
+**Performance Comparison:** Compare hospitals based on patient load, treatment costs, and recovery ratings through interactive visualizations.
+
+**Drill-Down Capabilities:** Drill down into specific hospital performance metrics for detailed analysis.
 
 # Treatment Effectiveness Visualization:
 Treatment Evaluation: Visualize the effectiveness of different treatments based on length of stay and recovery ratings, aiding in treatment optimization and outcome improvement.
