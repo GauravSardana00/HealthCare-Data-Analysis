@@ -1,4 +1,4 @@
-# HealthCare Analysis Dashboard
+# Healthcare Analysis Dashboard
 Welcome to the Healthcare Analysis Dashboard!
 
 This comprehensive dashboard is designed to provide deep insights into healthcare data, facilitating informed decision-making for healthcare providers and administrators. Below, you'll find a detailed overview of the features and functionalities of this dashboard.
