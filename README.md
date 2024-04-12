@@ -1,7 +1,8 @@
 # Healthcare Analysis Dashboard
 Welcome to the Healthcare Analysis Dashboard!
 
-![image](https://github.com/gauravv-sardanaa/Healthcare-Data-Analysis-Dashboard-Power-BI-/assets/140003916/2bbe53dd-1b75-4db1-afa7-4861512f744b)
+![image](https://github.com/gauravv-sardanaa/Healthcare-Data-Analysis-Dashboard-Power-BI-/assets/140003916/6b2c269b-d02b-4236-bf75-3fa8b5c4916e)
+
 
 
 
