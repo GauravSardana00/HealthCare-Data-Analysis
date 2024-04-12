@@ -1,5 +1,7 @@
 # Healthcare Analysis Dashboard
 Welcome to the Healthcare Analysis Dashboard!
+![image](https://github.com/gauravv-sardanaa/Healthcare-Data-Analysis-Dashboard-Power-BI-/assets/140003916/a480d3ce-b265-424e-bd04-46f29c686c1c)
+
 
 This comprehensive dashboard is designed to provide deep insights into healthcare data, facilitating informed decision-making for healthcare providers and administrators. Below, you'll find a detailed overview of the features and functionalities of this dashboard.
 
